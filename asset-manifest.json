@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "vaishnavijoshi.com/static/css/main.d37f7569.chunk.css",
+    "main.js": "vaishnavijoshi.com/static/js/main.1c101b1b.chunk.js",
+    "main.js.map": "vaishnavijoshi.com/static/js/main.1c101b1b.chunk.js.map",
+    "runtime-main.js": "vaishnavijoshi.com/static/js/runtime-main.92d7bbf2.js",
+    "runtime-main.js.map": "vaishnavijoshi.com/static/js/runtime-main.92d7bbf2.js.map",
+    "static/js/2.a3723b51.chunk.js": "vaishnavijoshi.com/static/js/2.a3723b51.chunk.js",
+    "static/js/2.a3723b51.chunk.js.map": "vaishnavijoshi.com/static/js/2.a3723b51.chunk.js.map",
+    "index.html": "vaishnavijoshi.com/index.html",
+    "precache-manifest.562b176647d57b09afcf0c85355a0db8.js": "vaishnavijoshi.com/precache-manifest.562b176647d57b09afcf0c85355a0db8.js",
+    "service-worker.js": "vaishnavijoshi.com/service-worker.js",
+    "static/css/main.d37f7569.chunk.css.map": "vaishnavijoshi.com/static/css/main.d37f7569.chunk.css.map",
+    "static/media/index.css": "vaishnavijoshi.com/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/IntroHome.svg": "vaishnavijoshi.com/static/media/IntroHome.b175cf58.svg",
+    "static/media/anitab_logo.png": "vaishnavijoshi.com/static/media/anitab_logo.05212119.png",
+    "static/media/cisce-logo.png": "vaishnavijoshi.com/static/media/cisce-logo.fbb4a7f9.png",
+    "static/media/codeInLogo.png": "vaishnavijoshi.com/static/media/codeInLogo.b3685be8.png",
+    "static/media/coderImg.svg": "vaishnavijoshi.com/static/media/coderImg.9ac60225.svg",
+    "static/media/education.svg": "vaishnavijoshi.com/static/media/education.9fde48d0.svg",
+    "static/media/experience.svg": "vaishnavijoshi.com/static/media/experience.64f28575.svg",
+    "static/media/all.css": "vaishnavijoshi.com/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/fb-logo.png": "vaishnavijoshi.com/static/media/fb-logo.192c18c1.png",
+    "static/media/github_logo.png": "vaishnavijoshi.com/static/media/github_logo.e64de169.png",
+    "static/media/hsc-logo.png": "vaishnavijoshi.com/static/media/hsc-logo.b5c36e65.png",
+    "static/media/icse_logo.jpg": "vaishnavijoshi.com/static/media/icse_logo.dc5b7aad.jpg",
+    "static/media/iitb_logo.png": "vaishnavijoshi.com/static/media/iitb_logo.2f377df2.png",
+    "static/media/intel_logo.jpg": "vaishnavijoshi.com/static/media/intel_logo.29152cf7.jpg",
+    "static/media/jsFramework.svg": "vaishnavijoshi.com/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/profile.png": "vaishnavijoshi.com/static/media/profile.d0f8d2a4.png",
+    "static/media/ui_ux_design.svg": "vaishnavijoshi.com/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d7bbf2.js",
+    "static/js/2.a3723b51.chunk.js",
+    "static/css/main.d37f7569.chunk.css",
+    "static/js/main.1c101b1b.chunk.js"
+  ]
+}
