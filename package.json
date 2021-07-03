@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "MyPersonalWebsite",
-  "homepage": "vaishnavijoshi.com/",
+  "homepage": "vaishnavi-29.github.io/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
